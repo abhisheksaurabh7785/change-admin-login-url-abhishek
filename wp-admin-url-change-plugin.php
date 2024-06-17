@@ -151,7 +151,7 @@ function admin_login_url_change_redirect_error_page(){
   }
   
   /**
-  * Redirect Success Page
+  * Redirect Success Page test code
   */
   
   function admin_login_url_change_redirect_success_page(){
