@@ -167,7 +167,7 @@ function admin_login_url_change_redirect_error_page(){
   }
   
   /**
-  * Redirect Login Page
+  * Redirect Login Page test git 
   */
   
   function admin_login_url_change_redirect_login_page() {
