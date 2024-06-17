@@ -134,7 +134,7 @@ add_action('wp_login_failed', 'admin_login_url_change_redirect_failed_login_page
 
 
 /**
-* Redirect Error Page
+* Redirect Error Page important
 */
 
 function admin_login_url_change_redirect_error_page(){
